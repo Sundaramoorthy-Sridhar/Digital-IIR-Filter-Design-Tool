@@ -1,0 +1,6 @@
+Digital IIR filter Design Tool
+1) The Presented M-file contains all the relevent functions created for the filter design
+2) Just download the file and place the M-file in the directory you wish
+3) Open MATLAB
+4) Change the Path to the directory in which you have this file
+5) Type "filters" in the command window to execute the application
